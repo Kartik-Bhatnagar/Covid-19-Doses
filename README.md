@@ -1,4 +1,4 @@
-# Covid-19
+# Covid-19-Doses
 This program aims towards Finding the performance of Indian Staes in Administering Both Vaccine Doses.
 
 The **Goal** is to find which among the Indian State/Ut is Performing very well in administering both doses at equivalent Pace and for which states the pace of Adminstering Dose 2 is less.
