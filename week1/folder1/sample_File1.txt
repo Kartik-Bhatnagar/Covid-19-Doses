@@ -1,0 +1,3 @@
+this is the sample file
+modified line
+modified line 2
