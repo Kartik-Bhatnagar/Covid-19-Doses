@@ -1,3 +1,4 @@
 hi this is a sample file
 in the week 1 directory
 this is another line
+after first commit this line is written
